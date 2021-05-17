@@ -15,5 +15,6 @@ declare namespace jwtAuthz {
     customScopeKey?: string;
     customUserKey?: string;
     checkAllScopes?: boolean;
+    customSubScopeKey?: string;
   }
 }
